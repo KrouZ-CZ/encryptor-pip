@@ -1,9 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name='funniest',
+setup(name='encryptor',
       version='0.1',
       description='Encryptor',
-      long_description='Bytes to encrypt string and encrypted string to bytes.',
       classifiers=[
         'Programming Language :: Python :: 3.10'
       ],
